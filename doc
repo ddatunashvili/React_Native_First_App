@@ -1,0 +1,3 @@
+npm config set force true
+
+npm install -g expo-cli
